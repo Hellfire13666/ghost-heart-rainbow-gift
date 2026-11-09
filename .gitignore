@@ -1,0 +1,14 @@
+# Local/private files never belong in the public gift repo
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+*.bak
+*.tar.gz
+*.zip
+.env
+.env.*
+*.secret
+*.pem
+*.key
+*.desktop
